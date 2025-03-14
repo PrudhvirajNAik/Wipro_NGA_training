@@ -1,0 +1,19 @@
+{
+    "ReRoutes": [
+        {
+            "DownstreamPathTemplate": "/api/products",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5016
+                }
+            ],
+            "UpstreamPathTemplate": "/api/products",
+            "UpstreamHttpMethod": [ "GET", "POST" ]
+        }
+    ],
+    "GlobalConfiguration": {
+        "BaseUrl": "http://localhost:6000"
+    }
+}
