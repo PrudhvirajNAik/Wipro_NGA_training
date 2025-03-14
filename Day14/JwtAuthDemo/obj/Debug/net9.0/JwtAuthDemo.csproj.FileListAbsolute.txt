@@ -1,0 +1,7 @@
+C:\Users\prudh\Day14\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.csproj.AssemblyReference.cache
+C:\Users\prudh\Day14\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prudh\Day14\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.AssemblyInfoInputs.cache
+C:\Users\prudh\Day14\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.AssemblyInfo.cs
+C:\Users\prudh\Day14\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.csproj.CoreCompileInputs.cache
+C:\Users\prudh\Day14\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prudh\Day14\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.MvcApplicationPartsAssemblyInfo.cache
