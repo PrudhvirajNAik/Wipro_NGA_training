@@ -1,0 +1,7 @@
+C:\Users\prudh\Day10_React_WEBAPI_.NETCORE_connectivity\MyWebAPI_v1\obj\Debug\net9.0\MyWebAPI_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prudh\Day10_React_WEBAPI_.NETCORE_connectivity\MyWebAPI_v1\obj\Debug\net9.0\MyWebAPI_v1.AssemblyInfoInputs.cache
+C:\Users\prudh\Day10_React_WEBAPI_.NETCORE_connectivity\MyWebAPI_v1\obj\Debug\net9.0\MyWebAPI_v1.AssemblyInfo.cs
+C:\Users\prudh\Day10_React_WEBAPI_.NETCORE_connectivity\MyWebAPI_v1\obj\Debug\net9.0\MyWebAPI_v1.csproj.CoreCompileInputs.cache
+C:\Users\prudh\Day10_React_WEBAPI_.NETCORE_connectivity\MyWebAPI_v1\obj\Debug\net9.0\MyWebAPI_v1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prudh\Day10_React_WEBAPI_.NETCORE_connectivity\MyWebAPI_v1\obj\Debug\net9.0\MyWebAPI_v1.RazorAssemblyInfo.cache
+C:\Users\prudh\Day10_React_WEBAPI_.NETCORE_connectivity\MyWebAPI_v1\obj\Debug\net9.0\MyWebAPI_v1.RazorAssemblyInfo.cs

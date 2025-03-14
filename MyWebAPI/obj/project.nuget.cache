@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OvDseR6aO7g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prudh\\Day10_React_WEBAPI_.NETCORE_connectivity\\MyWebAPI\\MyWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prudh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\prudh\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
