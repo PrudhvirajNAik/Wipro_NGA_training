@@ -1,0 +1,7 @@
+C:\Users\prudh\Day18\SampleUnitTestingAPI\obj\Debug\net9.0\SampleUnitTestingAPI.csproj.AssemblyReference.cache
+C:\Users\prudh\Day18\SampleUnitTestingAPI\obj\Debug\net9.0\SampleUnitTestingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prudh\Day18\SampleUnitTestingAPI\obj\Debug\net9.0\SampleUnitTestingAPI.AssemblyInfoInputs.cache
+C:\Users\prudh\Day18\SampleUnitTestingAPI\obj\Debug\net9.0\SampleUnitTestingAPI.AssemblyInfo.cs
+C:\Users\prudh\Day18\SampleUnitTestingAPI\obj\Debug\net9.0\SampleUnitTestingAPI.csproj.CoreCompileInputs.cache
+C:\Users\prudh\Day18\SampleUnitTestingAPI\obj\Debug\net9.0\SampleUnitTestingAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prudh\Day18\SampleUnitTestingAPI\obj\Debug\net9.0\SampleUnitTestingAPI.MvcApplicationPartsAssemblyInfo.cache

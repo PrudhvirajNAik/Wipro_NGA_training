@@ -1,0 +1,7 @@
+C:\Users\prudh\Day18\FE_testing_Jest\DemoApi\obj\Debug\net9.0\DemoApi.csproj.AssemblyReference.cache
+C:\Users\prudh\Day18\FE_testing_Jest\DemoApi\obj\Debug\net9.0\DemoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prudh\Day18\FE_testing_Jest\DemoApi\obj\Debug\net9.0\DemoApi.AssemblyInfoInputs.cache
+C:\Users\prudh\Day18\FE_testing_Jest\DemoApi\obj\Debug\net9.0\DemoApi.AssemblyInfo.cs
+C:\Users\prudh\Day18\FE_testing_Jest\DemoApi\obj\Debug\net9.0\DemoApi.csproj.CoreCompileInputs.cache
+C:\Users\prudh\Day18\FE_testing_Jest\DemoApi\obj\Debug\net9.0\DemoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prudh\Day18\FE_testing_Jest\DemoApi\obj\Debug\net9.0\DemoApi.MvcApplicationPartsAssemblyInfo.cache
